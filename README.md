@@ -38,7 +38,7 @@ This project performs data cleaning, exploratory data analysis (EDA), feature en
 
 ## 📊 Dataset
 
-- **Source:** [Add Kaggle or data source link here]
+- **Source:** https://www.kaggle.com/code/padmait/eda-bank-loan-default-risk-analysis/input
 - **Records:** ~50,000+ customer records
 - **Features:** Demographics, income, credit history, loan amount, repayment status, etc.
 
@@ -48,14 +48,9 @@ This project performs data cleaning, exploratory data analysis (EDA), feature en
 
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn
+- Matplotlib, Seaborn, Tenserflow
 - Scikit-learn
 - Jupyter Notebook
 
 ---
 
-## ⚙️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/username/bank-default-risk-analysis.git
