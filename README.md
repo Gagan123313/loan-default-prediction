@@ -30,16 +30,17 @@ This project performs data cleaning, exploratory data analysis (EDA), feature en
 
 ## 🎯 Objective
 
-- Understand the factors influencing loan defaults.
-- Develop a machine learning model to classify customers as *Defaulter* or *Non-Defaulter*.
-- Provide insights for better risk management.
+# bussiness Objective
+ 
+* This project aims to analyze bank customer data to identify patterns and factors that indicate whether a client may face difficulties in repaying their installments. Using exploratory data analysis (EDA) and predictive modeling, the project helps uncover key driver variables that strongly influence loan default risk.
 
+* The insights and prediction models can be used to make informed lending decisions, such as rejecting high-risk applicants, adjusting loan amounts, or setting higher interest rates for risky customers. This ensures that creditworthy customers are not wrongly denied loans and the bank can better manage its risk portfolio.
 ---
 
 ## 📊 Dataset
 
 - **Source:** https://www.kaggle.com/code/padmait/eda-bank-loan-default-risk-analysis/input
-- **Records:** ~50,000+ customer records
+- **Records:** ~(300000,118)+ customer records
 - **Features:** Demographics, income, credit history, loan amount, repayment status, etc.
 
 ---
@@ -51,6 +52,5 @@ This project performs data cleaning, exploratory data analysis (EDA), feature en
 - Matplotlib, Seaborn, Tenserflow
 - Scikit-learn
 - Jupyter Notebook
-
 ---
 
