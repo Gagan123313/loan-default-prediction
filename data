@@ -1,2 +1,8 @@
-- **Source:** [Kaggle - Home Credit Default Risk](https://www.kaggle.com/code/padmait/eda-bank-loan-default-risk-analysis/input)
-- **File:** [`data/loan_data.csv`](./data/loan_data.csv)
+## 📂 Dataset
+
+This project uses the [EDA Bank Loan Default Risk dataset](https://www.kaggle.com/code/padmait/eda-bank-loan-default-risk-analysis/input) hosted on Kaggle.
+
+📥 **How to use:**  
+1. Download the CSV file manually from Kaggle.  
+2. Save it inside the `data/` folder in this repository.  
+3. Run the notebook — it will read the CSV from local path.
