@@ -1,4 +1,4 @@
-# 🏦 ank Customer Default Risk Analysis
+# 🏦 Bank Customer Default Risk Analysis
 
 
 This project analyzes bank customer data to identify the risk of loan default. It uses data analytics and machine learning techniques to predict whether a customer is likely to repay or default.
@@ -29,8 +29,6 @@ This project performs data cleaning, exploratory data analysis (EDA), feature en
 ---
 
 ## 🎯 Objective
-
-# bussiness Objective
  
 * This project aims to analyze bank customer data to identify patterns and factors that indicate whether a client may face difficulties in repaying their installments. Using exploratory data analysis (EDA) and predictive modeling, the project helps uncover key driver variables that strongly influence loan default risk.
 
