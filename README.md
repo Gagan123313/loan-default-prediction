@@ -42,13 +42,14 @@ Run the Jupyter Notebook to perform analysis and modeling:
 ```bash
 jupyter notebook bank_default_risk.ipynb
 
+---
 ## Project Structure
 
-
+---
 
 ## insights
 
-
+---
 
 ## Result
-
+---
