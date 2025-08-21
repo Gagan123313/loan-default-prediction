@@ -34,8 +34,7 @@ By leveraging data analytics and machine learning techniques, the aim is to iden
 ## ▶️ **Usage**
 Run the Jupyter Notebook to perform analysis and modeling:  
 
-```bash
-jupyter notebook bank_default_risk.ipynb
+
 
 ---
 ## 🔍 Insights
