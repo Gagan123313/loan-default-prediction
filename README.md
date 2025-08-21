@@ -1,54 +1,54 @@
 # 🏦 Bank Customer Default Risk Analysis
 
+## 📖 Table of Contents
 
-This project analyzes bank customer data to identify the risk of loan default. It uses data analytics and machine learning techniques to predict whether a customer is likely to repay or default.
+- [Overview](#-overview)
+- [Objective](#-objective)
+- [Dataset](#-dataset)
+- [Tools & Technologies](#-tools--technologies)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Insights](#-insights)
+- [Result](#-result
 
----
-
-
-## 📂 Table of Contents
-
-- [Overview](#overview)
-- [Objective](#objective)
-- [Dataset](#dataset)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
-## 📌 Overview
-
-This project performs data cleaning, exploratory data analysis (EDA), feature engineering, and builds a classification model to predict the probability of customer default. The goal is to help banks manage credit risk more effectively.
+## 🔹 Overview
+This project focuses on analyzing customer loan data to identify the key factors contributing to loan defaults. By applying Exploratory Data Analysis (EDA) and machine learning techniques, we aim to support banks in making better lending decisions.
 
 ---
 
 ## 🎯 Objective
- 
-* This project aims to analyze bank customer data to identify patterns and factors that indicate whether a client may face difficulties in repaying their installments. Using exploratory data analysis (EDA) and predictive modeling, the project helps uncover key driver variables that strongly influence loan default risk.
-
-* The insights and prediction models can be used to make informed lending decisions, such as rejecting high-risk applicants, adjusting loan amounts, or setting higher interest rates for risky customers. This ensures that creditworthy customers are not wrongly denied loans and the bank can better manage its risk portfolio.
----
-
-## 📊 Dataset
-
-- **Source:** https://www.kaggle.com/code/padmait/eda-bank-loan-default-risk-analysis/input
-- **Records:** ~(300000,118)+ customer records
-- **Features:** Demographics, income, credit history, loan amount, repayment status, etc.
+- To analyze the patterns of loan repayment and defaults.  
+- To identify major risk factors influencing loan default.  
+- To build a predictive model that helps in reducing financial risk. 
 
 ---
 
-## 💻 Technologies Used
+## Dataset
+- **Source:** <Kaggle/UCI/CSV path/link>
+- **Size:** <rows> rows, <cols> columns
+- **Key Features:** `<col1>`, `<col2>`, `<col3>` (short description optional)
 
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn, Tenserflow
-- Scikit-learn
-- Jupyter Notebook
 ---
+
+## 🛠 Tools & Technologies
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- **Jupyter Notebook** for analysis  
+- **Excel/Power BI** (optional visualization)  
+
+---
+
+## ▶️ Usage
+Run the Jupyter Notebook to perform analysis and modeling:  
+```bash
+jupyter notebook bank_default_risk.ipynb
+
+## Project Structure
+
+
+
+## insights
+
+
+
+## Result
 
